@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop of Bless You Again: clear chambers, claim divine blessings, and funnel essence into permanent upgrades that make every run stronger."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Master dodges, parries, and posture-breaking heavy strikes so you read enemy telegraphs and punish recovery windows instead of trading hits."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Blessing & Build Guide",
+          "description": "Stack synergistic blessing schools such as Radiant Sol and Aegis Ward to turn scattered boons into a reliable, hard-hitting build."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Bless You Again."
+          "title": "Best Character to Pick",
+          "description": "Compare starter archetypes and companions like Lily to find the playstyle that fits how you want to play Bless You Again."
         }
       ]
     },
@@ -66,237 +66,333 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Blessings & Builds",
+        "Dungeon Runs",
+        "Boss Guides"
       ],
       "cards": [
         {
-          "badge": "Beginner",
+          "badge": "Start Here",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Foundational combat, upgrade priority, and survival habits for your first hours in Bless You Again.",
+          "href": "/guide/bless-you-again-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Gameplay Guide",
+          "description": "A central reference for blessing cycles, resource priority, and the action roguelike run loop.",
+          "href": "/guide/bless-you-again-gameplay-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Roster",
+          "title": "Characters",
+          "description": "Lily, the witches, the homunculus, and the party members who shape each expedition.",
+          "href": "/characters/bless-you-again-characters"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Build",
+          "title": "Skills & Builds",
+          "description": "Ranked skills, synergistic rotations, and the builds that carry deep dungeon runs.",
+          "href": "/combat/bless-you-again-skills"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Combat",
+          "title": "Bosses",
+          "description": "Phase-by-phase strategies for every major guardian and elite encounter.",
+          "href": "/combat/bless-you-again-bosses"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Media",
+          "title": "Official Trailer",
+          "description": "A full breakdown of the trailer's world design, combat glimpses, and community reaction.",
+          "href": "/updates/bless-you-again-official-trailer"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Bless You Again?",
       "paragraphs": [
-        "Bless You Again is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Bless You Again is a fantasy action roguelike in which every expedition sends you through procedurally arranged chambers packed with hostile guardians and rare divine favors. You fight in real time using directional dodges, parries, and posture-breaking heavy strikes, then spend the essence you collect on permanent upgrades that carry into your next attempt.",
+        "Each run is defined by its blessing system. Altars and defeated champions offer boons across schools such as Radiant Sol, Aegis Ward, Gale Swiftness, Umbral Decay, and Feral Instinct, and combining those blessings with your chosen archetype and companions like Lily is the key to surviving deeper floors. This wiki gathers the guides, builds, and reference data you need in one place."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Genre",
+          "value": "Fantasy Action Roguelike"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Blessing Schools",
+          "value": "5"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Starter Archetypes",
+          "value": "4"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Combat Attributes",
+          "value": "4"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Progression",
+          "value": "Rogue-lite Meta"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Bless You Again Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into Bless You Again with progression guides, blessing and build breakdowns, dungeon routes, enemy tactics, and the latest development updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Bless You Again Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/bless-you-again-codes",
-          "displayType": "code-box",
+          "name": "Bless You Again Beginner Guide",
+          "description": "This module introduces new players to the core gameplay loop, including dungeon exploration, combat basics, character growth, and early progression tips. It helps beginners understand how to start their adventure with Lily and make efficient decisions.",
+          "href": "/guide/bless-you-again-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Clear early chambers and study enemy telegraphs before pushing into deeper floors"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Bank Sanctified Ash into health and healing nodes so your runs last longer"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Choose a starting archetype that matches the range and mobility you enjoy"
+            },
+            {
+              "label": "4",
+              "detail": "Commit to two blessing schools instead of collecting rare but unsynergistic boons"
+            },
+            {
+              "label": "5",
+              "detail": "Save at least one dash charge for emergencies and keep defensive consumables ready"
+            },
+            {
+              "label": "6",
+              "detail": "Unlock the Second Breath revive talent before attempting the second biome boss"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/bless-you-again-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Bless You Again Gameplay Guide",
+          "description": "This section covers the main gameplay systems such as dungeon runs, battles, upgrades, skills, and exploration mechanics. Players can use it as a central reference for understanding the game's action roguelike structure.",
+          "href": "/guide/bless-you-again-gameplay-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Runs",
+              "detail": "Every expedition resets your blessings while permanent meta upgrades carry over"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Blessings",
+              "detail": "Clearing rooms and elites offers modifiers that reshape your active kit"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Essence",
+              "detail": "Spend run currency on blessing tiers before single-use healing items"
+            },
+            {
+              "label": "Biomes",
+              "detail": "Each biome ends with a guardian that gates the floors beyond it"
+            },
+            {
+              "label": "Spacing",
+              "detail": "Positioning and cooldown timing matter as much as raw damage output"
+            },
+            {
+              "label": "Meta",
+              "detail": "Starlight Runes from zone bosses unlock lasting skill tree nodes"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/bless-you-again-tier-list",
-          "displayType": "tier-grid",
+          "name": "Bless You Again Characters Guide",
+          "description": "This module provides information about Lily, spirits, and other important characters featured in the game. It can include character backgrounds, abilities, and gameplay-related roles.",
+          "href": "/characters/bless-you-again-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Lily",
+              "detail": "Blessing-focused botanist and ritualist built around wards, cleanses, and regeneration"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Witches",
+              "detail": "Coven casters such as the Hearth Weaver and Void Hexer shape support and attrition"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Homunculus",
+              "detail": "Alchemical companion that anchors the frontline or channels hybrid support"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Spirits",
+              "detail": "Summoned allies that extend your damage and utility across a run"
+            },
+            {
+              "label": "Roster",
+              "detail": "Party members like Alistair Vance and Seraphina Holt cover tanks, casters, and medics"
+            },
+            {
+              "label": "Synergy",
+              "detail": "Balanced parties beat stacking duplicate roles, so mix frontline and support"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/bless-you-again-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Bless You Again Skills and Builds",
+          "description": "This section focuses on skill combinations, blessings, upgrades, and possible build strategies for dungeon challenges. It helps players experiment with different combat styles and optimization choices.",
+          "href": "/combat/bless-you-again-skills",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Sunburst Thrust, Aegis of the Penitent, Celestial Torrent — top picks for stagger, immunity, and wave clears"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Hallowed Step, Sanctified Cleave, Vow of Resilience — reliable mobility, control, and sustain"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Judgment Gale and Ironbound Resolve — situational grouping and super-armor tools"
+            },
+            {
+              "label": "C",
+              "detail": "Beacon of Renewal — a stationary heal pool that needs careful placement"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/bless-you-again-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Bless You Again Dungeon Guide",
+          "description": "This module explains dungeon areas, exploration routes, enemies, rewards, and important mechanics inside the Tomb of Blessings. It is designed to help players progress through challenging stages.",
+          "href": "/mechanics/bless-you-again-roguelike",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Floors 1-3",
+              "detail": "Foundational phase — lock in a dependable damage skill and baseline mobility"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Floors 4-7",
+              "detail": "Synergy convergence — layer status procs and defensive recovery nets"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Floors 8+",
+              "detail": "Endgame scaling — stack multiplicative modifiers before boss enrage timers"
+            },
+            {
+              "label": "Guardians",
+              "detail": "Zone bosses drop Starlight Runes that unlock permanent skill tree nodes"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/bless-you-again-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Bless You Again Enemies Guide",
+          "description": "This section collects information about monsters and combat encounters players may face during dungeon runs. It can include enemy behavior, attack patterns, and recommended strategies.",
+          "href": "/combat/bless-you-again-bosses",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Brutes",
+              "detail": "Vanguard Brutes telegraph overhead slams, so bait the swing, dodge behind, and punish"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Marksmen",
+              "detail": "Hollow Marksmen chip you from range, so close the gap or break line of sight"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Weavers",
+              "detail": "Aether Weavers flood the arena with rings, so interrupt their casts with stagger strikes"
+            },
+            {
+              "label": "Swarms",
+              "detail": "Swarm Skitterers rush in numbers, so clear them with area damage before poison stacks"
+            },
+            {
+              "label": "Elites",
+              "detail": "Challenge vaults guard Consecrated Relics and demand full cooldown management"
+            },
+            {
+              "label": "Bosses",
+              "detail": "The Gate Warden, Blight Weaver, and Crimson Ascendant each gate a deeper biome"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bless You Again News and Updates",
+          "description": "This module gathers official development updates, playtest announcements, trailers, and release information. It keeps players informed about the latest changes from the development team.",
+          "href": "/updates/bless-you-again-announcement",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Announced",
+              "detail": "The official announcement outlines roadmap goals, mechanics revisions, and design priorities"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Official trailers reveal the world, tone, and real-time combat presentation"
+            },
+            {
+              "label": "Preview",
+              "detail": "Hands-on previews focus on environmental immersion and emotional decision-making"
+            },
+            {
+              "label": "Demo",
+              "detail": "A demo and playtest build let players sample early chapters before launch"
+            },
+            {
+              "label": "Review",
+              "detail": "Early reviews weigh combat depth, atmosphere, and narrative pacing"
+            },
+            {
+              "label": "Release",
+              "detail": "Storefront listings and wishlists track the launch window and platform rollout"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bless You Again Trailer and Media",
+          "description": "This module displays official trailers, gameplay videos, screenshots, and promotional materials. It helps visitors quickly understand the game's visual style and action gameplay.",
+          "href": "/updates/bless-you-again-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "The official trailer pairs cinematic spectacle with brief glimpses of live combat"
+            },
+            {
+              "label": "Demo",
+              "detail": "Demo footage shows the transition from cutscenes into interactive encounters"
+            },
+            {
+              "label": "Screens",
+              "detail": "Screenshots highlight the worn, history-rich environments of the setting"
+            },
+            {
+              "label": "Art",
+              "detail": "Key art and character posters introduce the cast and the game's visual identity"
+            },
+            {
+              "label": "Community",
+              "detail": "Community breakdowns analyze trailer details, hidden hints, and reactions"
+            },
+            {
+              "label": "Media",
+              "detail": "Media galleries collect videos, stills, and promotional assets in one place"
             }
           ]
         }
@@ -308,23 +404,23 @@
       "items": [
         {
           "question": "What is Bless You Again?",
-          "answer": "Bless You Again is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Bless You Again is a fantasy action roguelike in which each expedition sends you through procedurally arranged chambers full of guardians and divine favors. You fight in real time with dodges, parries, and posture-breaking strikes, then spend collected essence on permanent upgrades for future runs."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Do I need to finish a run to make progress in Bless You Again?",
+          "answer": "No. Bless You Again is built around rogue-lite meta-progression, so even a failed expedition feeds essence and Starlight Runes into permanent upgrades that make your next attempt stronger."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which starter archetype is best for beginners in Bless You Again?",
+          "answer": "The Vanguard Knight and Grove Warden are the most forgiving starting archetypes thanks to their higher health pools and dependable mobility, while the Arcane Seeker and Shadow Striker reward more experienced players."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do blessings work in Bless You Again?",
+          "answer": "Clearing chambers and defeating champions in Bless You Again lets you choose blessings from schools such as Radiant Sol, Aegis Ward, Gale Swiftness, Umbral Decay, and Feral Instinct. Pairing two synergistic schools beats hoarding the rarest individual boons."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Bless You Again available on consoles?",
+          "answer": "Bless You Again launches on PC through Steam first, with console versions for platforms such as PlayStation and Switch evaluated based on reception and technical feasibility."
         }
       ]
     },
