@@ -1,1 +1,505 @@
-{}
+{
+  "site": {
+    "name": "Bless You Again Wiki",
+    "shortName": "Bless You Again",
+    "tagline": "ガイド・キャラクター・祝福・ビルド",
+    "description": "Bless You Again の完全ガイド。ファンタジーアクションローグライクのキャラクター、祝福、ビルド、ダンジョン探索、トレーラー、進行のコツを紹介します。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "characters": "キャラクター",
+    "combat": "戦闘",
+    "platforms": "プラットフォーム",
+    "updates": "アップデート",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Bless You Again Wiki - ガイド・キャラクター・コード",
+      "description": "Bless You Again Wiki では、ゲームプレイガイド、キャラクター情報、アイテム詳細、コツ、コードなど、ファンタジー冒険の世界を探索するために必要な情報を掲載しています。"
+    },
+    "hero": {
+      "eyebrow": "ファンタジー冒険ゲーム",
+      "title": "Bless You Again Wiki",
+      "description": "Bless You Again は、探索、キャラクターの成長、魔法システム、そして独自のゲームプレイメカニクスの発見に焦点を当てたファンタジー冒険体験です。",
+      "stats": [
+        "総訪問数",
+        "登場キャラクター",
+        "有効コード",
+        "毎日更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steam でプレイ",
+      "tertiaryCta": "キャラクターガイド",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Bless You Again の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Bless You Again の基本ループを学びましょう。部屋を攻略し、神の祝福を手に入れ、エッセンスを恒久的な強化につぎ込んで、毎回のランをより強くします。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "回避、パリィ、体勢を崩す重撃を使いこなし、敵の予備動作を読み取って硬直に反撃しましょう。撃ち合いにならないのがコツです。"
+        },
+        {
+          "number": "3",
+          "title": "祝福とビルドガイド",
+          "description": "Radiant Sol や Aegis Ward など相乗効果のある祝福系統を重ね、散らばった恩恵を安定して高火力なビルドに変えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "おすすめの初期キャラクター",
+          "description": "初期アーキタイプや Lily などの仲間を比較して、自分に合ったプレイスタイルを見つけましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま人気",
+      "quickLinks": [
+        "初心者ガイド",
+        "祝福とビルド",
+        "ダンジョン探索",
+        "ボスガイド"
+      ],
+      "cards": [
+        {
+          "badge": "はじめに",
+          "title": "初心者ガイド",
+          "description": "Bless You Again の最初の数時間に向けた、戦闘の基礎、強化の優先順位、生存の習慣。",
+          "href": "/guide/bless-you-again-beginner-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "ゲームプレイガイド",
+          "description": "祝福のサイクル、リソースの優先順位、アクションローグライクのランループをまとめた中心的なリファレンス。",
+          "href": "/guide/bless-you-again-gameplay-guide"
+        },
+        {
+          "badge": "登場人物",
+          "title": "キャラクター",
+          "description": "Lily、魔女たち、ホムンクルス、そして各遠征を形作るパーティメンバー。",
+          "href": "/characters/bless-you-again-characters"
+        },
+        {
+          "badge": "ビルド",
+          "title": "スキルとビルド",
+          "description": "ランキング形式のスキル、相乗効果のあるローテーション、深いダンジョンを支えるビルド。",
+          "href": "/combat/bless-you-again-skills"
+        },
+        {
+          "badge": "戦闘",
+          "title": "ボス",
+          "description": "主要な守護者とエリート戦のフェーズ別攻略。",
+          "href": "/combat/bless-you-again-bosses"
+        },
+        {
+          "badge": "メディア",
+          "title": "公式トレーラー",
+          "description": "トレーラーで描かれた世界観、戦闘の一場面、コミュニティの反応を徹底解説。",
+          "href": "/updates/bless-you-again-official-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Bless You Again とは？",
+      "paragraphs": [
+        "Bless You Again はファンタジーアクションローグライクで、遠征のたびに手続き的に構成された部屋を進み、敵対する守護者や希少な神の恩恵と出会います。回避、パリィ、体勢を崩す重撃を駆使してリアルタイムで戦い、集めたエッセンスを恒久的な強化に使って次の挑戦に引き継ぎます。",
+        "各ランは祝福システムによって特徴づけられます。祭壇や倒したチャンピオンは Radiant Sol、Aegis Ward、Gale Swiftness、Umbral Decay、Feral Instinct などの系統の恩恵を与え、それらを選んだアーキタイプや Lily などの仲間と組み合わせることが、より深い階層を生き延びる鍵になります。このウィキでは、必要なガイド、ビルド、参照データを一か所にまとめています。"
+      ],
+      "stats": [
+        {
+          "label": "ジャンル",
+          "value": "ファンタジーアクションローグライク"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "祝福系統",
+          "value": "5"
+        },
+        {
+          "label": "初期アーキタイプ",
+          "value": "4"
+        },
+        {
+          "label": "戦闘属性",
+          "value": "4"
+        },
+        {
+          "label": "進行",
+          "value": "ローグライトのメタ進行"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Bless You Again Wiki を探索",
+      "description": "進行ガイド、祝福とビルドの解説、ダンジョンのルート、敵の対策、最新の開発情報で Bless You Again を深く楽しみましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Bless You Again 初心者ガイド",
+          "description": "このモジュールでは、ダンジョン探索、戦闘の基本、キャラクターの成長、序盤の進行のコツなど、ゲームプレイの基本ループを新規プレイヤーに紹介します。Lily との冒険をどう始め、効率的に判断するかを理解する助けになります。",
+          "href": "/guide/bless-you-again-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "序盤の部屋を攻略し、敵の予備動作を研究してから深い階層へ進みましょう"
+            },
+            {
+              "label": "2",
+              "detail": "聖別された灰は体力と回復のノードに投資して、ランの持ちを良くしましょう"
+            },
+            {
+              "label": "3",
+              "detail": "自分が好む間合いと機動力に合った初期アーキタイプを選びましょう"
+            },
+            {
+              "label": "4",
+              "detail": "珍しいだけで相乗効果のない恩恵を集めるより、2つの祝福系統に絞りましょう"
+            },
+            {
+              "label": "5",
+              "detail": "緊急用に回避のチャージを最低1つ残し、防御用の消耗品を用意しておきましょう"
+            },
+            {
+              "label": "6",
+              "detail": "2つ目のバイオームのボスに挑む前に、蘇生タレント「セカンドブレス」を解放しましょう"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bless You Again ゲームプレイガイド",
+          "description": "このセクションでは、ダンジョン探索、戦闘、強化、スキル、探索メカニクスなど、主要なゲームプレイシステムを扱います。ゲームのアクションローグライクとしての構造を理解するための中心的なリファレンスとして使えます。",
+          "href": "/guide/bless-you-again-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ラン",
+              "detail": "遠征のたびに祝福はリセットされますが、恒久的なメタ強化は引き継がれます"
+            },
+            {
+              "label": "祝福",
+              "detail": "部屋やエリートを制圧すると、現在の構成を作り変える修正効果が得られます"
+            },
+            {
+              "label": "エッセンス",
+              "detail": "使い切りの回復アイテムより先に、祝福のティアにランの通貨を使いましょう"
+            },
+            {
+              "label": "バイオーム",
+              "detail": "各バイオームは守護者で終わり、その先の階層への扉をふさぎます"
+            },
+            {
+              "label": "立ち回り",
+              "detail": "位置取りとクールダウンの管理は、生のダメージ量と同じくらい重要です"
+            },
+            {
+              "label": "メタ",
+              "detail": "ゾーンボスの落とす星光のルーンは、恒久的なスキルツリーのノードを解放します"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Bless You Again キャラクターガイド",
+          "description": "このモジュールでは、Lily、精霊、その他の重要なキャラクターに関する情報を紹介します。キャラクターの背景、能力、ゲームプレイ上の役割などを扱います。",
+          "href": "/characters/bless-you-again-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lily",
+              "detail": "防御、浄化、再生を軸にした祝福特化の植物学者であり儀式術士"
+            },
+            {
+              "label": "魔女",
+              "detail": "炉辺の織り手や虚無の呪術師といった魔女の術者たちが、支援と消耗戦を形作ります"
+            },
+            {
+              "label": "ホムンクルス",
+              "detail": "前線を支えるか、複合的な支援を届ける錬金術の相棒"
+            },
+            {
+              "label": "精霊",
+              "detail": "ランを通じて火力と有用性を広げる召喚された味方"
+            },
+            {
+              "label": "登場人物",
+              "detail": "Alistair Vance や Seraphina Holt のようなパーティメンバーがタンク、術者、回復役を担います"
+            },
+            {
+              "label": "相乗効果",
+              "detail": "役割を重複させるよりバランスの取れた編成が強いので、前線と支援を混ぜましょう"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bless You Again スキルとビルド",
+          "description": "このセクションでは、スキルの組み合わせ、祝福、強化、ダンジョン攻略のためのビルド戦略を扱います。さまざまな戦闘スタイルや最適化の選択肢を試す助けになります。",
+          "href": "/combat/bless-you-again-skills",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "サンバーストスラスト、贖罪者のイージス、セレスティアルトレント — 体勢崩し、無敵、ウェーブ処理に最適な選択"
+            },
+            {
+              "label": "A",
+              "detail": "ホローステップ、聖別の斬撃、不屈の誓い — 安定した機動力、制御、持久力"
+            },
+            {
+              "label": "B",
+              "detail": "ジャッジメントゲイルと鉄の決意 — 状況に応じた引き寄せとスーパーアーマーの手段"
+            },
+            {
+              "label": "C",
+              "detail": "再生のビーコン — 設置位置に注意が必要な固定式の回復領域"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bless You Again ダンジョンガイド",
+          "description": "このモジュールでは、祝福の墓所の中のダンジョンエリア、探索ルート、敵、報酬、重要なメカニクスを解説します。難しいステージを進む助けになるように作られています。",
+          "href": "/mechanics/bless-you-again-roguelike",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "階層 1-3",
+              "detail": "基礎固めの段階 — 安定した攻撃スキルと基本の機動力を固めましょう"
+            },
+            {
+              "label": "階層 4-7",
+              "detail": "相乗効果の収束 — 状態異常と防御的な立て直しを重ねましょう"
+            },
+            {
+              "label": "階層 8+",
+              "detail": "終盤のスケーリング — ボスの怒りタイマー前に乗算系の修正効果を積みましょう"
+            },
+            {
+              "label": "守護者",
+              "detail": "ゾーンボスは恒久的なスキルツリーノードを解放する星光のルーンを落とします"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Bless You Again 敵ガイド",
+          "description": "このセクションでは、ダンジョン探索中に遭遇する可能性のあるモンスターや戦闘に関する情報をまとめています。敵の行動、攻撃パターン、推奨される対策などを扱います。",
+          "href": "/combat/bless-you-again-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ブルート",
+              "detail": "先鋒のブルートは頭上からの叩きつけを予備動作で示すので、誘って背後に回避し、反撃しましょう"
+            },
+            {
+              "label": "射手",
+              "detail": "虚ろの射手は遠距離から削ってくるので、距離を詰めるか視線を切りましょう"
+            },
+            {
+              "label": "織り手",
+              "detail": "エーテルの織り手は輪で戦場を埋め尽くすので、体勢を崩す攻撃で詠唱を中断しましょう"
+            },
+            {
+              "label": "群れ",
+              "detail": "群れの這い虫は数を頼みに押し寄せるので、毒が重なる前に範囲攻撃で一掃しましょう"
+            },
+            {
+              "label": "エリート",
+              "detail": "挑戦の宝物庫は聖別された遺物を守っており、クールダウンの完全な管理が求められます"
+            },
+            {
+              "label": "ボス",
+              "detail": "門の守護者、疫病の織り手、深紅の昇天者は、それぞれより深いバイオームをふさぎます"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bless You Again ニュースとアップデート",
+          "description": "このモジュールでは、公式の開発アップデート、テスト告知、トレーラー、リリース情報をまとめています。開発チームの最新の変更をプレイヤーに伝えます。",
+          "href": "/updates/bless-you-again-announcement",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発表",
+              "detail": "公式発表では、ロードマップの目標、メカニクスの改訂、デザインの優先事項が示されています"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "公式トレーラーは世界観、雰囲気、リアルタイム戦闘の見せ方を明らかにします"
+            },
+            {
+              "label": "プレビュー",
+              "detail": "先行プレイの記事は、環境の没入感と感情的な意思決定に注目しています"
+            },
+            {
+              "label": "体験版",
+              "detail": "体験版とテスト版で、発売前に序盤の章を試せます"
+            },
+            {
+              "label": "レビュー",
+              "detail": "初期レビューは戦闘の奥深さ、雰囲気、物語のテンポを評価しています"
+            },
+            {
+              "label": "リリース",
+              "detail": "ストアページとウィッシュリストで、発売時期と対応プラットフォームの展開を追えます"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bless You Again トレーラーとメディア",
+          "description": "このモジュールでは、公式トレーラー、ゲームプレイ動画、スクリーンショット、プロモーション素材を紹介します。訪問者がゲームのビジュアルスタイルとアクションをすぐに理解できるようにします。",
+          "href": "/updates/bless-you-again-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トレーラー",
+              "detail": "公式トレーラーは映像美と実際の戦闘の一端を組み合わせています"
+            },
+            {
+              "label": "体験版",
+              "detail": "体験版の映像では、カットシーンから操作可能な戦闘への切り替わりが見られます"
+            },
+            {
+              "label": "スクリーンショット",
+              "detail": "スクリーンショットは、使い込まれ歴史を感じさせる舞台の環境を際立たせます"
+            },
+            {
+              "label": "アート",
+              "detail": "キービジュアルとキャラクターポスターが、登場人物とゲームのビジュアルアイデンティティを紹介します"
+            },
+            {
+              "label": "コミュニティ",
+              "detail": "コミュニティの考察が、トレーラーの詳細、隠されたヒント、反応を分析します"
+            },
+            {
+              "label": "メディア",
+              "detail": "メディアギャラリーは、動画、スチル、プロモ素材を一か所にまとめます"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Bless You Again に関するよくある質問への手早い回答。",
+      "items": [
+        {
+          "question": "Bless You Again とは？",
+          "answer": "Bless You Again はファンタジーアクションローグライクで、各遠征では守護者や神の恩恵であふれる手続き生成の部屋を進みます。回避、パリィ、体勢を崩す攻撃でリアルタイムに戦い、集めたエッセンスを今後のランのための恒久的な強化に使います。"
+        },
+        {
+          "question": "Bless You Again で進行するにはランを最後までクリアする必要がありますか？",
+          "answer": "いいえ。Bless You Again はローグライトのメタ進行を軸にしており、失敗した遠征でもエッセンスと星光のルーンが恒久的な強化に加わり、次の挑戦をより強くします。"
+        },
+        {
+          "question": "Bless You Again で初心者に最適な初期アーキタイプは？",
+          "answer": "ヴァンガードナイトとグローブウォーデンは、高い体力と安定した機動力のおかげで最も扱いやすい初期アーキタイプです。一方、アーケインシーカーとシャドウストライカーは経験者向けの性能になっています。"
+        },
+        {
+          "question": "Bless You Again の祝福はどう機能しますか？",
+          "answer": "Bless You Again では、部屋を攻略しチャンピオンを倒すと、Radiant Sol、Aegis Ward、Gale Swiftness、Umbral Decay、Feral Instinct などの系統から祝福を選べます。最も珍しい恩恵を溜め込むより、相乗効果のある2系統を組み合わせる方が強力です。"
+        },
+        {
+          "question": "Bless You Again はコンソールでも遊べますか？",
+          "answer": "Bless You Again はまず Steam を通じて PC でリリースされ、PlayStation や Switch などのコンソール版は、反響と技術的な実現可能性をもとに検討されます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bless You Again を極める準備はできましたか？",
+      "description": "最初のダンジョンから終盤の祝福まで、無料で最新のガイドをそろえたコミュニティウィキがサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Bless You Again ガイド",
+    "overviewDescription": "初心者向けの手順ガイド、ゲームプレイのコツ、体験版の詳細、発売日の情報で、最初のランを順調に始められます。"
+  },
+  "mechanics": {
+    "overviewTitle": "Bless You Again メカニクス",
+    "overviewDescription": "ローグライクのループ、祝福システム、キャラクタービルド、アクション RPG の進行がどう噛み合うかを解説します。"
+  },
+  "characters": {
+    "overviewTitle": "Bless You Again キャラクター",
+    "overviewDescription": "Lily、魔女たち、ホムンクルス、そして各ダンジョンで出会う残りの登場人物のプロフィール。"
+  },
+  "combat": {
+    "overviewTitle": "Bless You Again 戦闘",
+    "overviewDescription": "スキル、アビリティ、ボス戦、そしてランを生き延びるための戦闘の基本。"
+  },
+  "platforms": {
+    "overviewTitle": "Bless You Again プラットフォーム",
+    "overviewDescription": "Steam、PS5、Switch、コンソール対応の詳細で、Bless You Again をどこで遊べるかが分かります。"
+  },
+  "updates": {
+    "overviewTitle": "Bless You Again アップデート",
+    "overviewDescription": "最新の Bless You Again のニュースを追うトレーラー、発表、プレビュー、レビュー。"
+  },
+  "community": {
+    "overviewTitle": "Bless You Again コミュニティ",
+    "overviewDescription": "Bless You Again のプレイヤーがビルド、コード、コツを共有する Reddit、Discord、コミュニティハブ。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "コミュニティでコードを探す",
+    "playOnRoblox": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度ご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "Bless You Again Wiki",
+    "about": "Bless You Again Wiki は、キャラクター、祝福、ダンジョン探索、ビルド、そしてゲームの基礎知識を扱う、ファンが作った独立系のガイドハブです。新人からベテランまで役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Bless You Again Wiki。ゲームの開発元・販売元とは提携していません。",
+    "description": "ファンタジーアクションローグライク — Lily とともにダンジョン、祝福、ビルドを巡りましょう。",
+    "playGame": "Steam で Bless You Again をプレイ",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "祝福とビルドガイド",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

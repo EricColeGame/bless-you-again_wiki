@@ -1,1 +1,505 @@
-{}
+{
+  "site": {
+    "name": "Bless You Again Wiki",
+    "shortName": "Bless You Again",
+    "tagline": "Guias, personagens, bênçãos e builds",
+    "description": "Seu guia definitivo de Bless You Again: explore os personagens, as bênçãos, as builds, as incursões em masmorras, os trailers e as dicas de progressão do roguelike de ação de fantasia.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "characters": "Personagens",
+    "combat": "Combate",
+    "platforms": "Plataformas",
+    "updates": "Atualizações",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Bless You Again Wiki: guias, personagens e códigos",
+      "description": "O Bless You Again Wiki oferece guias de gameplay, informações de personagens, detalhes de itens, dicas, códigos e tudo o que os jogadores precisam para explorar o mundo de aventura de fantasia."
+    },
+    "hero": {
+      "eyebrow": "Jogo de aventura de fantasia",
+      "title": "Bless You Again Wiki",
+      "description": "Bless You Again é uma experiência de aventura de fantasia focada na exploração, na progressão de personagens, nos sistemas mágicos e na descoberta de mecânicas de gameplay únicas.",
+      "stats": [
+        "Visitas totais",
+        "Personagens disponíveis",
+        "Códigos ativos",
+        "Atualizações diárias"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Jogar na Steam",
+      "tertiaryCta": "Guia de personagens",
+      "videoLabel": "Trailer oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Bless You Again",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Aprenda o ciclo principal de Bless You Again: limpe câmaras, receba bênçãos divinas e converta a essência em melhorias permanentes que deixam cada partida mais forte."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos do combate",
+          "description": "Domine esquivas, aparos e golpes pesados que quebram a postura para ler os avisos dos inimigos e punir as janelas de recuperação em vez de trocar golpes."
+        },
+        {
+          "number": "3",
+          "title": "Guia de bênçãos e builds",
+          "description": "Combine escolas de bênçãos sinérgicas como Radiant Sol e Aegis Ward para transformar dádivas dispersas em uma build confiável e devastadora."
+        },
+        {
+          "number": "4",
+          "title": "Melhor personagem para escolher",
+          "description": "Compare os arquétipos iniciais e companheiros como Lily para encontrar o estilo de jogo que combina com o jeito que você quer jogar Bless You Again."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Bênçãos e builds",
+        "Incursões em masmorras",
+        "Guias de chefes"
+      ],
+      "cards": [
+        {
+          "badge": "Comece aqui",
+          "title": "Guia para iniciantes",
+          "description": "Combate básico, prioridade de melhorias e hábitos de sobrevivência para suas primeiras horas em Bless You Again.",
+          "href": "/guide/bless-you-again-beginner-guide"
+        },
+        {
+          "badge": "Essencial",
+          "title": "Guia de gameplay",
+          "description": "Uma referência central sobre os ciclos de bênçãos, a prioridade de recursos e o ciclo de partidas do roguelike de ação.",
+          "href": "/guide/bless-you-again-gameplay-guide"
+        },
+        {
+          "badge": "Elenco",
+          "title": "Personagens",
+          "description": "Lily, as bruxas, o homúnculo e os membros do grupo que moldam cada expedição.",
+          "href": "/characters/bless-you-again-characters"
+        },
+        {
+          "badge": "Build",
+          "title": "Habilidades e builds",
+          "description": "Habilidades classificadas, rotações sinérgicas e as builds que sustentam incursões mais profundas.",
+          "href": "/combat/bless-you-again-skills"
+        },
+        {
+          "badge": "Combate",
+          "title": "Chefes",
+          "description": "Estratégias fase a fase para cada guardião importante e encontro de elite.",
+          "href": "/combat/bless-you-again-bosses"
+        },
+        {
+          "badge": "Mídia",
+          "title": "Trailer oficial",
+          "description": "Uma análise completa do design de mundo mostrado no trailer, dos vislumbres de combate e da reação da comunidade.",
+          "href": "/updates/bless-you-again-official-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Bless You Again?",
+      "paragraphs": [
+        "Bless You Again é um roguelike de ação de fantasia em que cada expedição leva você por câmaras organizadas de forma procedural, repletas de guardiões hostis e raras dádivas divinas. Você luta em tempo real com esquivas direcionais, aparos e golpes pesados que quebram a postura, e depois gasta a essência coletada em melhorias permanentes que valem para a próxima tentativa.",
+        "Cada partida é definida pelo seu sistema de bênçãos. Altares e campeões derrotados oferecem dádivas de escolas como Radiant Sol, Aegis Ward, Gale Swiftness, Umbral Decay e Feral Instinct, e combinar essas bênçãos com o arquétipo escolhido e companheiros como Lily é a chave para sobreviver aos andares mais profundos. Esta wiki reúne em um só lugar os guias, as builds e os dados de referência de que você precisa."
+      ],
+      "stats": [
+        {
+          "label": "Gênero",
+          "value": "Roguelike de ação de fantasia"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Escolas de bênçãos",
+          "value": "5"
+        },
+        {
+          "label": "Arquétipos iniciais",
+          "value": "4"
+        },
+        {
+          "label": "Atributos de combate",
+          "value": "4"
+        },
+        {
+          "label": "Progressão",
+          "value": "Meta rogue-lite"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore o Bless You Again Wiki",
+      "description": "Mergulhe em Bless You Again com guias de progressão, análises de bênçãos e builds, rotas de masmorra, táticas contra inimigos e as últimas novidades de desenvolvimento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Bless You Again",
+          "description": "Este módulo apresenta aos novos jogadores o ciclo principal de gameplay, incluindo exploração de masmorras, fundamentos de combate, evolução de personagens e dicas de progressão inicial. Ele ajuda os iniciantes a entender como começar a aventura com Lily e a tomar decisões eficientes.",
+          "href": "/guide/bless-you-again-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Limpe as primeiras câmaras e estude os avisos dos inimigos antes de avançar para andares mais profundos"
+            },
+            {
+              "label": "2",
+              "detail": "Invista Cinza Santificada em nós de vida e cura para que suas partidas durem mais"
+            },
+            {
+              "label": "3",
+              "detail": "Escolha um arquétipo inicial que combine com o alcance e a mobilidade de que você gosta"
+            },
+            {
+              "label": "4",
+              "detail": "Aposte em duas escolas de bênçãos em vez de acumular dádivas raras mas sem sinergia"
+            },
+            {
+              "label": "5",
+              "detail": "Guarde pelo menos uma carga de esquiva para emergências e mantenha os consumíveis defensivos prontos"
+            },
+            {
+              "label": "6",
+              "detail": "Desbloqueie o talento de ressurreição Segundo Fôlego antes de enfrentar o chefe do segundo bioma"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de gameplay de Bless You Again",
+          "description": "Esta seção cobre os principais sistemas de gameplay, como incursões em masmorras, batalhas, melhorias, habilidades e mecânicas de exploração. Os jogadores podem usá-la como referência central para entender a estrutura roguelike de ação do jogo.",
+          "href": "/guide/bless-you-again-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Partidas",
+              "detail": "Cada expedição reinicia suas bênçãos, enquanto as melhorias meta permanentes são mantidas"
+            },
+            {
+              "label": "Bênçãos",
+              "detail": "Limpar salas e elites oferece modificadores que remodelam seu kit ativo"
+            },
+            {
+              "label": "Essência",
+              "detail": "Gaste a moeda da partida em níveis de bênção antes de itens de cura de uso único"
+            },
+            {
+              "label": "Biomas",
+              "detail": "Cada bioma termina com um guardião que bloqueia o acesso aos andares seguintes"
+            },
+            {
+              "label": "Posicionamento",
+              "detail": "Posicionamento e tempo de recarga importam tanto quanto o dano bruto"
+            },
+            {
+              "label": "Meta",
+              "detail": "Runas de Luz Estelar dos chefes de zona desbloqueiam nós permanentes da árvore de habilidades"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de personagens de Bless You Again",
+          "description": "Este módulo traz informações sobre Lily, os espíritos e outros personagens importantes do jogo. Pode incluir histórias dos personagens, habilidades e funções relacionadas ao gameplay.",
+          "href": "/characters/bless-you-again-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lily",
+              "detail": "Botânica e ritualista focada em bênçãos, baseada em proteções, purificações e regeneração"
+            },
+            {
+              "label": "Bruxas",
+              "detail": "Conjuradoras do coven como a Tecelã da Lareira e a Bagunceira do Vazio definem o suporte e o desgaste"
+            },
+            {
+              "label": "Homúnculo",
+              "detail": "Companheiro alquímico que ancora a linha de frente ou canaliza suporte híbrido"
+            },
+            {
+              "label": "Espíritos",
+              "detail": "Aliados invocados que ampliam seu dano e sua utilidade ao longo de uma partida"
+            },
+            {
+              "label": "Elenco",
+              "detail": "Membros do grupo como Alistair Vance e Seraphina Holt cobrem tanques, conjuradores e curandeiros"
+            },
+            {
+              "label": "Sinergia",
+              "detail": "Grupos equilibrados superam os que acumulam funções duplicadas, então misture linha de frente e suporte"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Habilidades e builds de Bless You Again",
+          "description": "Esta seção foca em combinações de habilidades, bênçãos, melhorias e possíveis estratégias de build para os desafios da masmorra. Ela ajuda os jogadores a experimentar estilos de combate e opções de otimização diferentes.",
+          "href": "/combat/bless-you-again-skills",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Estocada do Sol Nascente, Égide do Penitente e Torrente Celestial: as melhores escolhas para atordoar, ganhar imunidade e limpar ondas"
+            },
+            {
+              "label": "A",
+              "detail": "Passo Sagrado, Talho Santificado e Voto de Resiliência: mobilidade, controle e sustentação confiáveis"
+            },
+            {
+              "label": "B",
+              "detail": "Vendaval do Julgamento e Determinação Férrea: ferramentas situacionais de agrupamento e superarmadura"
+            },
+            {
+              "label": "C",
+              "detail": "Farol da Renovação: uma área de cura estacionária que exige posicionamento cuidadoso"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de masmorras de Bless You Again",
+          "description": "Este módulo explica as áreas da masmorra, as rotas de exploração, os inimigos, as recompensas e as mecânicas importantes dentro da Tumba das Bênçãos. Ele foi criado para ajudar os jogadores a avançar por etapas desafiadoras.",
+          "href": "/mechanics/bless-you-again-roguelike",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Andares 1-3",
+              "detail": "Fase inicial: fixe uma habilidade de dano confiável e uma mobilidade básica"
+            },
+            {
+              "label": "Andares 4-7",
+              "detail": "Convergência de sinergias: acumule efeitos de status e redes de recuperação defensiva"
+            },
+            {
+              "label": "Andares 8+",
+              "detail": "Escalonamento de endgame: acumule modificadores multiplicativos antes dos temporizadores de fúria dos chefes"
+            },
+            {
+              "label": "Guardiões",
+              "detail": "Chefes de zona dropam Runas de Luz Estelar que desbloqueiam nós permanentes da árvore de habilidades"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de inimigos de Bless You Again",
+          "description": "Esta seção reúne informações sobre os monstros e encontros de combate que os jogadores podem enfrentar durante as incursões em masmorras. Pode incluir comportamento dos inimigos, padrões de ataque e estratégias recomendadas.",
+          "href": "/combat/bless-you-again-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Brutamontes",
+              "detail": "Os Brutamontes da Vanguarda avisam seus golpes de cima: provoque o ataque, esquive por trás e puna"
+            },
+            {
+              "label": "Atiradores",
+              "detail": "Os Atiradores Ocos desgastam você à distância, então encurte a distância ou quebre a linha de visão"
+            },
+            {
+              "label": "Tecelões",
+              "detail": "Os Tecelões Etéreos inundam a arena com anéis, então interrompa suas conjurações com golpes que atordoam"
+            },
+            {
+              "label": "Enxames",
+              "detail": "Os Escorregadios do Enxame avançam em massa, então elimine-os com dano em área antes que o veneno acumule"
+            },
+            {
+              "label": "Elites",
+              "detail": "As câmaras de desafio guardam Relíquias Consagradas e exigem gestão total de recargas"
+            },
+            {
+              "label": "Chefes",
+              "detail": "O Guardião do Portão, a Tecelã da Praga e o Ascendente Carmesim bloqueiam cada um um bioma mais profundo"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Notícias e atualizações de Bless You Again",
+          "description": "Este módulo reúne as atualizações oficiais de desenvolvimento, os anúncios de testes, os trailers e as informações de lançamento. Ele mantém os jogadores informados sobre as últimas mudanças da equipe de desenvolvimento.",
+          "href": "/updates/bless-you-again-announcement",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Anúncio",
+              "detail": "O anúncio oficial descreve as metas do roadmap, as revisões de mecânicas e as prioridades de design"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Os trailers oficiais revelam o mundo, o tom e a apresentação do combate em tempo real"
+            },
+            {
+              "label": "Prévia",
+              "detail": "As prévias práticas focam na imersão ambiental e na tomada de decisões emocional"
+            },
+            {
+              "label": "Demo",
+              "detail": "Uma demo e uma versão de teste permitem que os jogadores experimentem os primeiros capítulos antes do lançamento"
+            },
+            {
+              "label": "Análise",
+              "detail": "As primeiras análises avaliam a profundidade do combate, a atmosfera e o ritmo narrativo"
+            },
+            {
+              "label": "Lançamento",
+              "detail": "As páginas das lojas e as listas de desejos acompanham a janela de lançamento e a chegada às plataformas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Trailer e mídia de Bless You Again",
+          "description": "Este módulo exibe trailers oficiais, vídeos de gameplay, capturas de tela e materiais promocionais. Ele ajuda os visitantes a entender rapidamente o estilo visual e a ação do jogo.",
+          "href": "/updates/bless-you-again-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "O trailer oficial combina o espetáculo cinematográfico com breves vislumbres de combate real"
+            },
+            {
+              "label": "Demo",
+              "detail": "As imagens da demo mostram a transição das cenas para os encontros interativos"
+            },
+            {
+              "label": "Capturas",
+              "detail": "As capturas destacam os ambientes desgastados e cheios de história do cenário"
+            },
+            {
+              "label": "Arte",
+              "detail": "A arte principal e os pôsteres de personagens apresentam o elenco e a identidade visual do jogo"
+            },
+            {
+              "label": "Comunidade",
+              "detail": "As análises da comunidade examinam os detalhes do trailer, as pistas escondidas e as reações"
+            },
+            {
+              "label": "Mídia",
+              "detail": "As galerias de mídia reúnem vídeos, imagens e materiais promocionais em um só lugar"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Bless You Again.",
+      "items": [
+        {
+          "question": "O que é Bless You Again?",
+          "answer": "Bless You Again é um roguelike de ação de fantasia em que cada expedição leva você por câmaras organizadas de forma procedural, cheias de guardiões e dádivas divinas. Você luta em tempo real com esquivas, aparos e golpes que quebram a postura, e depois gasta a essência coletada em melhorias permanentes para partidas futuras."
+        },
+        {
+          "question": "Preciso terminar uma partida para progredir em Bless You Again?",
+          "answer": "Não. Bless You Again é construído em torno da meta-progressão rogue-lite, então até uma expedição fracassada rende essência e Runas de Luz Estelar para melhorias permanentes que deixam sua próxima tentativa mais forte."
+        },
+        {
+          "question": "Qual arquétipo inicial é melhor para iniciantes em Bless You Again?",
+          "answer": "O Cavaleiro da Vanguarda e o Guardião do Bosque são os arquétipos iniciais mais tolerantes graças à maior reserva de vida e à mobilidade confiável, enquanto o Buscador Arcano e o Golpeador Sombrio recompensam jogadores mais experientes."
+        },
+        {
+          "question": "Como funcionam as bênçãos em Bless You Again?",
+          "answer": "Limpar câmaras e derrotar campeões em Bless You Again permite escolher bênçãos de escolas como Radiant Sol, Aegis Ward, Gale Swiftness, Umbral Decay e Feral Instinct. Combinar duas escolas sinérgicas é melhor do que acumular as dádivas individuais mais raras."
+        },
+        {
+          "question": "Bless You Again está disponível em consoles?",
+          "answer": "Bless You Again será lançado primeiro no PC pela Steam, e as versões para consoles como PlayStation e Switch serão avaliadas conforme a recepção e a viabilidade técnica."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Bless You Again?",
+      "description": "Da sua primeira incursão na masmorra às bênçãos de endgame, nossa wiki da comunidade cobre você com guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar na Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias de Bless You Again",
+    "overviewDescription": "Guias passo a passo para iniciantes, dicas de gameplay, detalhes da demo e informações da data de lançamento para que suas primeiras partidas comecem bem."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Bless You Again",
+    "overviewDescription": "Como o ciclo roguelike, o sistema de bênçãos, as builds de personagens e a progressão do RPG de ação se encaixam."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Bless You Again",
+    "overviewDescription": "Perfis de Lily, das bruxas, dos homúnculos e do resto do elenco que você encontra em cada incursão na masmorra."
+  },
+  "combat": {
+    "overviewTitle": "Combate de Bless You Again",
+    "overviewDescription": "Habilidades, destrezas, lutas contra chefes e os fundamentos de combate que mantêm uma partida viva."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Bless You Again",
+    "overviewDescription": "Detalhes de suporte a Steam, PS5, Switch e consoles para você saber exatamente onde jogar Bless You Again."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Bless You Again",
+    "overviewDescription": "Trailers, anúncios, prévias e análises acompanhando as últimas notícias de Bless You Again."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Bless You Again",
+    "overviewDescription": "Reddit, Discord e hubs da comunidade onde os jogadores de Bless You Again compartilham builds, códigos e dicas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Encontre códigos na comunidade",
+    "playOnRoblox": "Jogar na Steam",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Bless You Again Wiki",
+    "about": "O Bless You Again Wiki é um hub de guias independente, feito por fãs, que cobre personagens, bênçãos, incursões em masmorras, builds e conhecimentos essenciais do jogo, tanto para jogadores novos quanto veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Bless You Again Wiki. Sem afiliação com os desenvolvedores ou publicadoras do jogo.",
+    "description": "Roguelike de ação de fantasia: acompanhe Lily em incursões, bênçãos e builds.",
+    "playGame": "Jogue Bless You Again na Steam",
+    "officialDiscord": "Comunidade da Steam",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Guia de bênçãos e builds",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Guia de personagens",
+    "bossGuides": "Guias de chefes",
+    "buildGuide": "Guia de builds",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

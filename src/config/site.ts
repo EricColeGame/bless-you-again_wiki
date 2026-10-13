@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/projectlilyBYA",
     steam: "https://steamcommunity.com/app/3530630",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "ja"],
   defaultLocale: "en",
 };
