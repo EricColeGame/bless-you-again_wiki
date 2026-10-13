@@ -1,13 +1,18 @@
-import type { LucideIcon } from "lucide-react";
-
 export interface NavItem {
   key: string;
-  path: string;
-  icon: LucideIcon;
+  path: `/${string}`;
   isContentType: boolean;
 }
 
-export const NAVIGATION_CONFIG: NavItem[] = [];
+export const NAVIGATION_CONFIG = [
+  { key: "guide", path: "/guide", isContentType: true },
+  { key: "mechanics", path: "/mechanics", isContentType: true },
+  { key: "characters", path: "/characters", isContentType: true },
+  { key: "combat", path: "/combat", isContentType: true },
+  { key: "platforms", path: "/platforms", isContentType: true },
+  { key: "updates", path: "/updates", isContentType: true },
+  { key: "community", path: "/community", isContentType: true },
+] satisfies readonly NavItem[];
 
 export const CONTENT_TYPES: string[] = NAVIGATION_CONFIG
   .filter((item) => item.isContentType)

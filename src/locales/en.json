@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "combat": "Combat",
+    "platforms": "Platforms",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -431,12 +438,39 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Bless You Again Guides",
+    "overviewDescription": "Beginner walkthroughs, gameplay tips, demo details, and release-date info to help your first runs get off to a strong start."
+  },
+  "mechanics": {
+    "overviewTitle": "Bless You Again Mechanics",
+    "overviewDescription": "How the roguelike loop, blessing system, character builds, and action RPG progression fit together."
+  },
+  "characters": {
+    "overviewTitle": "Bless You Again Characters",
+    "overviewDescription": "Profiles for Lily, the witches, homunculi, and the rest of the cast you meet across each dungeon run."
+  },
+  "combat": {
+    "overviewTitle": "Bless You Again Combat",
+    "overviewDescription": "Skills, abilities, boss fights, and the combat fundamentals that keep a run alive."
+  },
+  "platforms": {
+    "overviewTitle": "Bless You Again Platforms",
+    "overviewDescription": "Steam, PS5, Switch, and console support details so you know exactly where to play Bless You Again."
+  },
+  "updates": {
+    "overviewTitle": "Bless You Again Updates",
+    "overviewDescription": "Trailers, announcements, previews, and reviews tracking the latest Bless You Again news."
+  },
+  "community": {
+    "overviewTitle": "Bless You Again Community",
+    "overviewDescription": "Reddit, Discord, and community hubs where Bless You Again players share builds, codes, and tips."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "Find codes in the community",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
